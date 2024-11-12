@@ -1,0 +1,5 @@
+vanna[gemini,bigquery,chromadb]
+vertexai
+python-dotenv
+sqlparse
+google-cloud-bigquery[pandas]
